@@ -1,3 +1,40 @@
-PODFILE CHECKSUM: c0a2ba44c187c60d77953e5d753ca29e90bc5f61
+PODS:
+  - BigNumber (2.0)
+  - Nimble (7.3.2)
+  - Quick (1.3.2)
+  - Repeat (0.5.7)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - BigNumber (from `https://github.com/mkrd/Swift-Big-Integer.git`)
+  - Nimble
+  - Quick
+  - Repeat
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - Repeat
+    - SnapKit
+
+EXTERNAL SOURCES:
+  BigNumber:
+    :git: https://github.com/mkrd/Swift-Big-Integer.git
+
+CHECKOUT OPTIONS:
+  BigNumber:
+    :commit: e1c4bc15a6b11c5fa7f8cb678f59b55c0b238f23
+    :git: https://github.com/mkrd/Swift-Big-Integer.git
+
+SPEC CHECKSUMS:
+  BigNumber: bcc393c06b3e7e2752e5121be58c032c45c6f36b
+  Nimble: 5e94a8cacb355943c6c87198035dc4adbb0f10e4
+  Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
+  Repeat: 73c5ee602aed8f3c7bf1aa12d4cd0d3dc3edea0a
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: ff4af055762ed5be066d7d13a90f2d37f6852ef1
 
 COCOAPODS: 1.5.3
